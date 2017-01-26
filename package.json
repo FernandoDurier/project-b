@@ -1,0 +1,18 @@
+{
+  "name": "bpmnmanipulation",
+  "version": "1.0.0",
+  "description": "this is a project to read xml bpm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fernando Cardoso Durier da Sivla",
+  "license": "ISC",
+  "dependencies": {
+    "bpmn-engine": "^1.2.0",
+    "fs": "0.0.1-security",
+    "q": "^1.4.1",
+    "request": "^2.79.0",
+    "xml2js": "^0.4.17"
+  }
+}
